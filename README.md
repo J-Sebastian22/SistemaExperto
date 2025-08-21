@@ -1,3 +1,3 @@
-# SistemaExperto De 
+# SistemaExperto
 
 Johan Sebastian Palechor Montañez
